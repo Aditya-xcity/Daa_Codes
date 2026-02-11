@@ -12,32 +12,45 @@ The goal of this repository is to provide:
 
 ## 📂 Folder Structure
 
-```text
-Daa_Codes/
+```
+
+C:.
+│   .gitignore
+│   LICENSE
+│   README.md
 │
-├── .gitignore
-├── LICENSE
-│
-└── Weeks/
-    ├── Week1/
-    │   ├── W1Q1_LinearSearch.cpp
-    │   ├── W1Q1_LinearSearch_Recursion.cpp
-    │   ├── W1Q2_BinarySearch.cpp
-    │   └── W1Q3_JumpSearch.cpp
+└───Weeks
+    ├───Week1
+    │       W1Q1_LinearSearch.cpp
+    │       W1Q1_LinearSearch_Recurrsion.cpp
+    │       W1Q2_BinarySearch.cpp
+    │       W1Q3_jumpSearch.cpp
     │
-    ├── Week2/
-    │   ├── W2Q1_CountDuplicateBinarySearch.cpp
-    │   ├── W2Q2_ThreeIndexSum.cpp
-    │   └── W2Q3_CountPairsWithDifference.cpp
+    ├───Week2
+    │       W2Q1_countDuplicateBinarySearch.cpp
+    │       W2Q2_threeIndexSum.cpp
+    │       W2Q3_countPairsWithDifference.cpp
     │
-    ├── Week3/
-    │   ├── W3Q1_InsertionSortWithCounts.cpp
-    │   └── W3Q2_SelectionSortWithCounts.cpp
+    ├───Week3
+    │       W3Q1_insertionSortWithCounts.cpp
+    │       W3Q1_selectionSortWithCounts.cpp
+    │       W3Q3_Duplicates.cpp
     │
-    └── Week4/
-        ├── W4Q1_MergeSortComparisonsInversions.cpp
-        ├── W4Q2_RandomizedQuickSort.cpp
-        └── W4Q3_KthSmallest_MedianOfMedians.cpp
+    ├───Week4
+    │       W4Q1_mergeSortComparisonsInversions.cpp
+    │       W4Q2_randomizedQuickSort.cpp
+    │       W4Q3_kthSmallestMedianOfMedians.cpp
+    │
+    ├───Week5
+    │       W5Q1maxAlphabetOccurrence.cpp
+    │       W5Q2pairSumUsingSorting.cpp
+    │       W5Q3commonElementsSortedArrays.cpp
+    │
+    └───Week6
+            W6Q1pathExistsUsingDFS.cpp
+            W6Q2checkBipartiteUsingBFS.cpp
+            W6Q3detectCycleInDirectedGraph.cpp
+
 
 
 many more codes comming soon........
